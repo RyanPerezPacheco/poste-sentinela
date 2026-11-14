@@ -6,7 +6,7 @@
 |---|---|
 | Ryan Perez Pacheco| RM98782 |
 | João Lucas Yudi Redi Handa | RM98458 |
-| Guilheme Faustino Vargas | RM98278 |
+| Guilherme Faustino Vargas | RM98278 |
 | Guilherme Dal Posolo Matheus | RM98694 |
 | Lucas Laia Manentti | RM97709|
 
