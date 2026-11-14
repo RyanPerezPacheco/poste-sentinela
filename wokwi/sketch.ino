@@ -112,7 +112,7 @@ void atualizarTela(int estado, float luxA, float luxL, float tensao,
   tela.println("POSTE SENTINELA #001");
   tela.drawLine(0, 9, 127, 9, SSD1306_WHITE);
   tela.setCursor(0, 13);
-  tela.printf("Amb:%6.0flx Lamp:%4.0f\n", luxA, luxL);
+  tela.printf("Amb:%6.0f Lamp:%4.0f\n", luxA, luxL);
   tela.printf("Rede:%3.0fV  Incl:%4.1fg\n", tensao, incl);
   tela.printf("Pessoas: %s\n", presenca ? "SIM" : "nao");
   tela.drawLine(0, 39, 127, 39, SSD1306_WHITE);

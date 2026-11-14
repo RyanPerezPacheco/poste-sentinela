@@ -10,8 +10,8 @@
 | Guilherme Dal Posolo Matheus | RM98694 |
 | Lucas Laia Manentti | RM97709|
 
-- 🔗 **Simulação no Wokwi:** `https://wokwi.com/projects/480680533941189633`
-- 🎥 **Vídeo demonstrativo (até 6 min):** ``
+- 🔗 **Simulação no Wokwi:** https://wokwi.com/projects/480680533941189633
+- 🎥 **Vídeo demonstrativo (até 6 min):** _(link do YouTube em breve)_
 
 ---
 
