@@ -11,7 +11,7 @@
 | Lucas Laia Manentti | RM97709|
 
 - 🔗 **Simulação no Wokwi:** https://wokwi.com/projects/480680533941189633
-- 🎥 **Vídeo demonstrativo (até 6 min):** _https://youtu.be/MRGCmFCB2Is_
+- 🎥 **Vídeo demonstrativo:** _https://youtu.be/MRGCmFCB2Is_
 
 ---
 
